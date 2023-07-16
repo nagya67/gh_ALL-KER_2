@@ -1,0 +1,29 @@
+:root{
+    --light-grey:#dbdbdb;
+    --tree-green:#2a7e19;
+}
+h2{padding:30px 0px 30px 0px; text-align:center}
+.with-border{border:2px solid #b1b1b1;background-color:#ececec;}
+canvas{overflow:auto;}
+body{color:black;}
+.mybackground{background-image:url(./img/alphabet.jpg);background-repeat:repeat}
+.myList{background-color:#DADADA;border:1px solid grey;overflow:auto;height:150px;}
+.myListShort{background-color:#DADADA;border:1px solid grey;overflow:auto;height:150px;}
+input[type='text']{border:1px solid grey}
+table{border:1px solid grey}
+.red{color:red}
+.border{padding:10px;border: 1px solid grey; background-color:#DADADA;}
+.middle{text-align: center;}
+.ohp{width:100%}
+h1{padding:20px}
+.aquamarine{background-color:aquamarine}
+.lightcolar{background-color:lightcoral}
+.dadada{background-color: #dadada;}
+.white{background-color: white;}
+.green{background-color:green}
+.light-yellow{background-color:#fef086}
+.dark-olive{background-color:#acab34}
+.light-pink{background-color:#ffc0cb}
+.dark-pink{background-color:#e30cc7}
+.center{text-align:center}
+.long{ width:60%; text-align:center}
